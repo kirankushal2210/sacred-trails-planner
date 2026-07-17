@@ -1,0 +1,1 @@
+ALTER TABLE public.temples ADD COLUMN IF NOT EXISTS deity_image_url TEXT NOT NULL DEFAULT '';
