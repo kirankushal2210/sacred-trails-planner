@@ -1,0 +1,125 @@
+{
+  "temples": {
+    "ramanathaswamy": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Ramanathaswamy_temple7.JPG"
+    },
+    "vaishno-devi": {
+      "image": "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=800&q=80"
+    },
+    "kedarnath": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Kedarnath_Temple_in_Rainy_season.jpg"
+    },
+    "trimbakeshwar": {
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?w=800&q=80"
+    },
+    "kailasanatha-ellora": {
+      "image": "https://images.unsplash.com/photo-1514222134-b57cbb8ce073?w=800&q=80"
+    },
+    "kashi-vishwanath": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Kashi_Vishwanath.jpg"
+    },
+    "somnath": {
+      "image": "https://images.unsplash.com/photo-1548013146-72479768bada?w=800&q=80"
+    },
+    "mahakaleshwar": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Mahakaleshwar_Temple%2C_Ujjain.jpg"
+    },
+    "omkareshwar": {
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?w=800&q=80"
+    },
+    "brihadeeswara": {
+      "image": "https://images.unsplash.com/photo-1561361058-c24cecae35ca?w=800&q=80"
+    },
+    "srisailam": {
+      "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&q=80"
+    },
+    "grishneshwar": {
+      "image": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef?w=800&q=80"
+    },
+    "vaidyanath": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Baidyanath_temple_and_temple_complex%2C_Deoghar_04.jpg"
+    },
+    "nageshwar": {
+      "image": "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=800&q=80"
+    },
+    "bhimashankar": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bhimashankar.jpg"
+    },
+    "lingaraja": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Lingaraj_Temple_%2C_Bhubaneswar.jpg"
+    },
+    "virupaksha-hampi": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Complex_of_Virupaksha_Temple%2C_Hampi_%2804%29.jpg"
+    },
+    "badrinath": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Badrinath_Temple_%2C_Uttarakhand.jpg"
+    },
+    "jagannath-puri": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Shri_Jagannath_temple.jpg"
+    },
+    "tirumala-venkateswara": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Tirumala_090615.jpg"
+    },
+    "ranganathaswamy": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Ranganathaswamy_temple_tiruchirappalli.jpg"
+    },
+    "padmanabhaswamy": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Sree_Padmanabhaswamy_temple_01.jpg"
+    },
+    "birla-mandir-hyderabad": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Birla_Mandir%2C_Hyderabad.png"
+    },
+    "chennakesava-belur": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/The_Courtyard_of_Chennakesava_Temple_-_Belur.jpg"
+    },
+    "dwarkadhish": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Dwarakadheesh_Temple%2C_2014.jpg"
+    },
+    "guruvayur": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Guruvayoor_Temple_1.jpg"
+    },
+    "iskcon-vrindavan": {
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?w=800&q=80"
+    },
+    "siddhivinayak": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Shree_Siddhivinayak_Temple_Mumbai.jpg"
+    },
+    "meenakshi-amman": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/An_aerial_view_of_Madurai_city_from_atop_of_Meenakshi_Amman_temple.jpg"
+    },
+    "kamakhya": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Kamakhya_Temple_-_DEV_8829.jpg"
+    },
+    "tirupati-padmavathi": {
+      "image": "https://images.unsplash.com/photo-1514222134-b57cbb8ce073?w=800&q=80"
+    },
+    "konark-sun": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Konarka_Temple.jpg"
+    },
+    "sabarimala": {
+      "image": "https://images.unsplash.com/photo-1548013146-72479768bada?w=800&q=80"
+    },
+    "shirdi-sai-baba": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Shirdi_Sai_Baba_3.jpg"
+    },
+    "mahabodhi": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Mahabodhitemple.jpg"
+    },
+    "akshardham-delhi": {
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?w=800&q=80"
+    },
+    "golden-temple-amritsar": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/The_Golden_Temple_of_Amrithsar_7.jpg"
+    }
+  },
+  "deities": {
+    "shiva": "https://upload.wikimedia.org/wikipedia/commons/5/52/Bangalore_Shiva.jpg",
+    "vishnu": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Vishnu_from_Gita_Govinda.jpg",
+    "krishna": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Krishna_Holds_Up_Mount_Govardhan_%28MET_70694%29_cropped.png",
+    "durga": "https://upload.wikimedia.org/wikipedia/commons/6/65/Mahishasura-Mardini_Durga.jpg",
+    "ganesha": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ganesha_Basohli_miniature_circa_1730_Dubost_p73.jpg",
+    "buddha": "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=800&q=80",
+    "sikh": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Sri_Guru_Granth_Sahib_Nishan.jpg",
+    "swaminarayan": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Lord_Swaminarayan_writing_the_Shikshapatri.jpg"
+  }
+}
