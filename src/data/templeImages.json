@@ -34,7 +34,7 @@
       "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&q=80"
     },
     "grishneshwar": {
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Grishneshwar_temple%2C_Verul.jpg"
+      "image": "/grishneshwar.png"
     },
     "vaidyanath": {
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Baidyanath_temple_and_temple_complex%2C_Deoghar_04.jpg"
@@ -97,7 +97,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Konarka_Temple.jpg"
     },
     "sabarimala": {
-      "image": "https://images.unsplash.com/photo-1548013146-72479768bada?w=800&q=80"
+      "image": "/sabarimala.jpg"
     },
     "shirdi-sai-baba": {
       "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Shirdi_Sai_Baba_3.jpg"
